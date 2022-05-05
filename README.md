@@ -1,2 +1,2 @@
 # conditional-trumpets
-official repo for C-Trumpets: Conditional Injective Flows for Bayesian Imaging
+official repo for Conditional Injective Flows for Bayesian Imaging
