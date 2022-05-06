@@ -71,7 +71,7 @@ We performed this task over MNIST and ten identities of the [Voxceleb](https://w
 ```sh
 python3 train.py --num_epochs 3000 --batch_size 64 --dataset voxceleb --lr 0.0001 --ml_threshold 1500 --model_depth 3 --latent_depth 4 --learntop 1 --gpu_num 0 --remove_all 1 --desc default --problem cs --train 1 
 ```
-We trained C-Trumpets for 3000 epoch over voxceleb (as the number of training data is small) and 300 epoch over MNIST.
+We trained C-Trumpets for 3000 epochs over Voxceleb (as the number of training data is small) and 300 epochs over MNIST.
 
 
 ## Citation
