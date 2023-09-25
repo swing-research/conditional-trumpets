@@ -3,7 +3,7 @@
 [![Paper](https://img.shields.io/badge/arxiv-report-red)](https://arxiv.org/abs/2204.07664)
 [![PWC](https://img.shields.io/badge/PWC-report-blue)](https://paperswithcode.com/paper/conditional-injective-flows-for-bayesian)
 
-This repository is the official Tensorflow Python implementation of "[Conditional Injective Flows for Bayesian Imaging](https://arxiv.org/abs/2204.07664)".
+This repository is the official Tensorflow Python implementation of "[Conditional Injective Flows for Bayesian Imaging](https://arxiv.org/abs/2204.07664)" published in IEEE Transactions on Computational Imaging, 2023.
 
 | [**Project Page**](https://sada.dmi.unibas.ch/en/research/injective-flows)  | 
 
@@ -78,10 +78,13 @@ We trained C-Trumpets for 3000 epochs over Voxceleb (as the number of training d
 If you find the code or our dataset useful in your research, please consider citing the paper.
 
 ```
-@article{khorashadizadeh2022conditional,
-  title={Conditional Injective Flows for Bayesian Imaging},
-  author={Khorashadizadeh, AmirEhsan and Kothari, Konik and Salsi, Leonardo and Harandi, Ali Aghababaei and de Hoop, Maarten and Dokmani'c, Ivan},
-  journal={arXiv preprint arXiv:2204.07664},
-  year={2022}
+@article{khorashadizadeh2023conditional,
+  title={Conditional injective flows for Bayesian imaging},
+  author={Khorashadizadeh, AmirEhsan and Kothari, Konik and Salsi, Leonardo and Harandi, Ali Aghababaei and de Hoop, Maarten and Dokmani{\'c}, Ivan},
+  journal={IEEE Transactions on Computational Imaging},
+  volume={9},
+  pages={224--237},
+  year={2023},
+  publisher={IEEE}
 }
 ```
